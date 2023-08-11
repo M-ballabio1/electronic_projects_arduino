@@ -1,7 +1,7 @@
 #include<ESP8266WiFi.h>
 
 #define ssid "FRITZ!Box 7530 UL"
-#define password "76251722961599335318"
+#define password "xxxx"
 
 void setup() {
 
